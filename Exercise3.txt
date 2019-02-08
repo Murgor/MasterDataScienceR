@@ -1,0 +1,8 @@
+Exercise 3.31 
+1. The color aesthetic should be set as an argument of geom function outside of aes(). It is inside aes() in the given script.
+2.Categorical Variables(model,manufacturer, trans, drv,fl,class) Continous Variables(fl,hwy,cty,cyl,year,displ)
+3. Some aesthetics e.g shape cannot be mapped to Continous Variables
+4. The graph gets clumped together & unreadable
+5.Modify width of the border. Shapes 21-25
+6.The Aesthetic is turned in to a boolean
+
