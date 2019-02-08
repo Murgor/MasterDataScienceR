@@ -1,0 +1,3 @@
+Exercise 3.31 
+1. The color aesthetic should be set as an argument of geom function outside of aes(). It is inside aes() in the given script.
+2.Categorical Variables(model,manufacturer, trans, drv,fl,class)
